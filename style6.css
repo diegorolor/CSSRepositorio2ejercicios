@@ -1,0 +1,28 @@
+body{
+    margin: 100;
+    ;
+}
+
+ul{
+    display:list-item;
+    list-style: outside;
+    justify-content: space-between;
+    padding: 0;
+    background-color:blue;
+    color: rgb(0, 0, 0);
+    height: 80px;
+    align-content: right;
+    color: white;
+    width: 200;
+    border-block-end: 40;
+    margin: 20px;
+    ;
+}
+ul:hover{
+    color: green;
+    cursor: pointer;
+    text-underline-offset: 100;
+}
+a:visited{
+    color: red;
+}
